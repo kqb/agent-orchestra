@@ -1,0 +1,21 @@
+# AI agent metadata
+CLAUDE.md
+.claude/
+.serena/
+.windsurf/
+.codeiumignore
+memory-bank/
+reference_files/
+# OS / editor
+.DS_Store
+*.swp
+*.bak
+*.backup
+# Build / deps
+dist/
+build/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
