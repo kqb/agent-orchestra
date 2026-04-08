@@ -1,6 +1,8 @@
 # Agent Orchestra
 
 Multi-agent orchestration framework for Clawdbot.
+> **Lineage:** Built for Clawdbot (codename: Zoid), a personal AI agent system. [OpenClaw](https://github.com/kqb/openclaw) is its public successor. Path references like `~/clawd/` reflect that system layout.
+
 Structured communication protocols, event-driven coordination, and task dependency management for AI coding agents.
 
 ## Problem
